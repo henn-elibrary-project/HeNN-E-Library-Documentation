@@ -6,12 +6,18 @@ While this repository HeNN-E-Library Documentation is completely nontechnical bu
 
 All documentation about Help Nepal Network E-Library Project prepared and compiled by Kathmandu University Open Source Community(KUOSC) Volunteers.
 
-Files in this repository are organized alphabetically in ascending order.
+Files in this repository are organized alphabetically in ascending order:
+
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/chase%20library%20details.docx">Chase E-Library Details</a>
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Guidelines of Monitoring</a>
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a> by <a href="https://github.com/algosig"> Sanjog Sigdel </a>
 
+
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/chase%20library%20details.docx" style="text-color:#124334">Chase E-Library Details</a>
+---
+CHASE COMMUNITY GIVINGS ia a grant that sponsored Help Nepal Network for E-Library Project. With this grant Help Nepal has established 11 elibraries in eleven districts of Nepal. This document has the contact details about the school and contact person. This file is important to the Volunteers.
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Guidelines of Monitoring</a>
 ---

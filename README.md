@@ -8,10 +8,14 @@ All documentation about Help Nepal Network E-Library Project prepared and compil
 
 Files in this repository are organized alphabetically in ascending order.
 
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Guidelines of Monitoring</a>
+
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a> by <a href="https://github.com/algosig"> Sanjog Sigdel </a>
 
 
-
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Guidelines of Monitoring</a>
+---
+This documentation provides a detailed monitoring guidelines which is very useful to the HeNN E-Library volunteer
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a>
 ---

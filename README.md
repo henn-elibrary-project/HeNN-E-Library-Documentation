@@ -15,7 +15,9 @@ Files in this repository are organized alphabetically in ascending order:
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Monitoring Guidelines</a>
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a> by <a href="https://github.com/algosig"> Sanjog Sigdel </a>
+
 <a href="#">Synopsis Repost:Deployment</a>
+
 <a href="#"> Synopsys Report:Monitoring</a>
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/chase%20library%20details.docx" style="text-color:#124334">Chase E-Library Details</a>

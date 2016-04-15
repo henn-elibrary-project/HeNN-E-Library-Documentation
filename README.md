@@ -16,7 +16,7 @@ Files in this repository are organized alphabetically in ascending order:
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a> by <a href="https://github.com/algosig"> Sanjog Sigdel </a>
 
-<a href="#">Synopsis Repost:Deployment</a>
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Synopsis%20Report%20for%20deployment">Synopsis Report for  Deployment</a>
 
 <a href="#"> Synopsys Report:Monitoring</a>
 

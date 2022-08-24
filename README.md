@@ -12,6 +12,8 @@ Files in this repository are organized alphabetically in ascending order:
 
 <a href="#">Deployment Guidelines</a>
 
+<a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/E-Library%20COST%20ESTIMATION.docx"> E-Library Cost Estimation </a>
+
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/Guidelines%20for%20Monitoring"> Monitoring Guidelines</a>
 
 <a href="https://github.com/henn-elibrary-project/HeNN-E-Library-Documentation/blob/master/HeNN%20E-libraries%20in%20Nepal.pdf">HeNN E-Libraries in Nepal</a> by <a href="https://github.com/algosig"> Sanjog Sigdel </a>
